@@ -1,0 +1,5 @@
+# Folder dependensi yang tidak perlu diunggah
+node_modules/
+
+# File yang berisi informasi rahasia (password, dll.)
+.env
